@@ -1,2 +1,2 @@
-"what do I put in the readma?" - Dean
+"what do I put in the readme?" - Dean
 "I dunno" - Eli
